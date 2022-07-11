@@ -1,6 +1,6 @@
 
 
-# [React Astronaut](https://robianchini.github.io/react-astronaut/)
+# [React Astronaut](https://robianchini.github.io/react-astronaut-demo)
 
 [![npm][npm-image]][npm-url]
 
